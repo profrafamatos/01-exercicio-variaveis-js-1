@@ -31,20 +31,21 @@ Este projeto utiliza algumas dependências que precisam ser instaladas antes de 
 npm install
 ```
 
-⚠️ **Atenção:** Isso irá instalar todas as dependências listadas no arquivo package.json.
+⚠️ Atenção: Isso irá instalar todas as dependências listadas no arquivo package.json.
 
 
 ### 4️⃣ - Resolver o exercício ✍️
 
-Agora, a parte divertida! Abra o arquivo index.js no VSCode ou em seu editor de preferência. 🛠️ Lá você encontrará comentários com as instruções. Resolva o exercício escrevendo o código na área indicada!
+🛠️ Agora, a parte divertida! Abra o arquivo index.js no VSCode ou em seu editor de preferência. Lá você encontrará comentários com as instruções. Resolva o exercício escrevendo o código na área indicada!
 
 
-*** ⚠️ Importante: *** Não altere o arquivo index.test.js. Esse arquivo contém os testes automatizados e não deve ser modificado. Qualquer mudança nele pode interferir no seu resultado esperado!
-
+⚠️ Importante: Não altere o arquivo index.test.js. Esse arquivo contém os testes automatizados e não deve ser modificado. Qualquer mudança nele pode interferir no seu resultado esperado!
 
 
 ### 5️⃣ - Rodar os testes ✅
-Terminou a sua solução? Ótimo! 🎉 Agora é hora de verificar se está tudo funcionando. No terminal, execute o comando abaixo para rodar os testes automatizados:
+Terminou a sua solução? Ótimo! 
+
+🎉 Agora é hora de verificar se está tudo funcionando. No terminal, execute o comando abaixo para rodar os testes automatizados:
 
 ```bash
 npm test
